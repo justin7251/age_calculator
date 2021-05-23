@@ -1,3 +1,8 @@
+# Age Calculator
+
+The age calculator is a small project that allows users to enter a name and date, and calculate your age in units of year, month, day, and hour. This project is build by react, tt uses React hooks to add, update and delete.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
